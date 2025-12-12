@@ -1,0 +1,12 @@
+feedback-project/
+│
+├── frontend/
+│   └── index.html
+│
+├── backend/
+│   ├── server.js
+│   ├── file-utils.js
+│   ├── feedback.json
+│   └── package.json
+│
+└── README.md   (optional)

@@ -29,21 +29,6 @@ Perfect for beginners learning:
 
 ---
 
-## 📁 Project Structure
-
-feedback-project/
-│
-├── frontend/
-│ └── index.html
-│
-└── backend/
-├── server.js
-├── file-utils.js
-├── feedback.json
-└── package.json
-
----
-
 ## ⚙️ Backend Setup (Local)
 
 Open terminal:

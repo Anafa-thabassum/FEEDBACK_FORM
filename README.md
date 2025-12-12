@@ -28,6 +28,32 @@ Perfect for beginners learning:
 - CORS enabled for frontend communication  
 
 ---
+⭐ Visual Flow Diagram
+Client (HTML form)
+
+  ↓
+
+Sends fetch POST → /feedback
+
+  ↓
+
+Express backend receives it
+
+  ↓
+
+fs module writes JSON to file
+
+  ↓
+
+Returns success response
+
+  ↓
+
+Frontend shows success message
+
+
+
+
 
 ## ⚙️ Backend Setup (Local)
 
